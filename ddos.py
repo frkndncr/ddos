@@ -5,8 +5,7 @@ import os
 os.system("clear")
 banner="""
 ##########################
-#Bozkurt Ddos   V1.0	 #
-#Code by Bozkurt	     #
+#Code by f3rkan	  #
 ##########################
 
 """
