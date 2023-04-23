@@ -5,7 +5,7 @@ import os
 os.system("clear")
 banner="""
 ##########################
-#Code by f3rkan	  #
+#  code by furkan dinçer #
 ##########################
 
 """
